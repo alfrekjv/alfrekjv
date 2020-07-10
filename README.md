@@ -9,7 +9,7 @@ Even though I have a strong background in engineering, curiosity driven by my AD
 - 🎯 Product Strategy
 - 📝 Product Marketer
 
-- 📫 How to reach me: iam@alfrek.net
+- 📫 How to reach me: alfredojv@juvasoft.com
 - ⚡ Fun facts: I am black belt on Taekwondo (태권도) (I don't practice anymore, though)
 
 Alfredo Juárez ・ アルフレドジュアレズ
