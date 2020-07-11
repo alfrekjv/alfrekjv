@@ -10,6 +10,6 @@ I have a strong background in Software Engineering, but curiosity driven by my A
 - 📝 Product Marketer
 
 - 📫 How to reach me: alfredojv@juvasoft.com
-- ⚡ Fun facts: I am black belt on Taekwondo (태권도) (I don't practice anymore, though)
+- ⚡ Fun facts: I am black belt on Taekwondo (태권도)
 
 Alfredo Juárez ・ アルフレドジュアレズ
