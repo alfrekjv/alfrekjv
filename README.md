@@ -1,4 +1,4 @@
-## Hi There! こんにちわ 👋
+## Hi There! 👋
 
 I design and build digital products. Sometimes to learn, most of the time for customers at [juvasoft.com](https://juvasoft.com) where I lead a small team of UX Designers and Engineers.
 
@@ -9,7 +9,7 @@ I have a strong background in Software Engineering, but curiosity driven by my A
 - 🎯 Product Strategy
 - 📝 Product Marketer
 
-- 📫 How to reach me: alfredojv@juvasoft.com
+- 📫 How to reach me: alfredojv [at] juvasoft.com
 - ⚡ Fun facts: I am black belt on Taekwondo (태권도)
 
 Alfredo Juárez ・ アルフレドジュアレズ
